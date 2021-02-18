@@ -168,3 +168,8 @@ resources:
                 Identifiers:
                   - "s3://your-bucket/"
 ```
+
+## Contribute
+
+### Commit log format
+Use `npx cz` to commit changes, so that we automatically create release notes
